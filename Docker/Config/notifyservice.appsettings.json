@@ -1,0 +1,15 @@
+{
+  "Logging": {
+      "LogLevel": {
+          "Default": "Information",
+          "Microsoft.AspNetCore": "Warning"
+      }
+  },
+  "ServiceConfig": {
+      "GatewayApiBaseURL": "http://100.70.70.1:33331",
+      "TelegramBotToken": "1234567890:SECRET",
+      "RabbitMQ": {
+          "Host": "100.70.70.1"
+      }
+  } 
+}
