@@ -7,7 +7,7 @@
     },
     "AllowedHosts": "*",
     "ServiceConfig": {
-        "Database": "Host=100.70.70.1;Port=5433;Database=MicroServiceDatabase;Username=MicroServiceUser;Password=1",
-        "Redis": "100.70.70.1:6379"
+        "Database": "Host=192.168.0.107;Port=5433;Database=MicroServiceDatabase;Username=MicroServiceUser;Password=1",
+        "Redis": "192.168.0.107:6379"
     }
 }

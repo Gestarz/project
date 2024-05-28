@@ -6,10 +6,10 @@
       }
   },
   "ServiceConfig": {
-      "GatewayApiBaseURL": "http://100.70.70.1:33331",
-      "TelegramBotToken": "1234567890:SECRET",
+      "GatewayApiBaseURL": "http://192.168.0.107:33331",
+      "TelegramBotToken": "7293382659:AAFiZ3u0vP1Ly-6Wm239_SMqVAv8HU-oat4",
       "RabbitMQ": {
-          "Host": "100.70.70.1"
+          "Host": "192.168.0.107"
       }
   } 
 }
