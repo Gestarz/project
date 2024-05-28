@@ -7,6 +7,7 @@
     },
     "AllowedHosts": "*",
     "ServiceConfig": {
+        "GatewayApi": "http://192.168.0.107:33331",
         "Database": "Host=192.168.0.107;Port=5432;Database=MicroServiceDatabase;Username=MicroServiceUser;Password=1",
         "Redis": "192.168.0.107:6379"
     }
